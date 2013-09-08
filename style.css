@@ -1,0 +1,15 @@
+/*
+Author: Axel Cullberg
+Contact: axel.cullberg@gmail.com
+Description: (En grundläggande CSS)
+*/
+body{
+background-color:#00c8ec;
+width: 100%;
+}
+#container {
+	border-width:10px;
+	border-style:solid;
+	border-color:#f00;
+	border:10px solid #00tt00;
+}
